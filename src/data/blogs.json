@@ -28,5 +28,15 @@
     "date": "2026-02-07",
     "excerpt": "Discover how Vite leverages native ES modules and esbuild to deliver lightning-fast development and build times.",
     "mdPath": "/posts/vite-performance.md"
+  },
+  {
+    "id": "docker",
+    "slug": "docker",
+    "title": "We docker is essential",
+    "category": "Devops",
+    "tags": ["docker", "devops"],
+    "date": "2026-02-10",
+    "excerpt": "What is containerisation why is it essential",
+    "mdPath": "/posts/docker.md"
   }
 ]
