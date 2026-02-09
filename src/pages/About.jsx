@@ -10,7 +10,7 @@ const About = () => {
           <img
             src="/images/ekam.jpeg"
             alt="Ekam Singh"
-            className="relative w-48 h-48 rounded-full object-cover border-4 border-white dark:border-zinc-900 shadow-xl"
+            className="relative w-64 h-64 rounded-full object-cover border-4 border-white dark:border-zinc-900 shadow-xl"
           />
         </div>
         <h1 className="text-4xl font-bold mb-2">Ekam Singh</h1>
