@@ -1,0 +1,32 @@
+[
+  {
+    "id": "getting-started-react",
+    "slug": "getting-started-react",
+    "title": "Getting Started with React in 2026",
+    "category": "React",
+    "tags": ["react", "javascript", "tutorial"],
+    "date": "2026-02-09",
+    "excerpt": "Learn the fundamentals of React and build your first component. This guide covers hooks, props, and state management.",
+    "mdPath": "/posts/getting-started-react.md"
+  },
+  {
+    "id": "tailwind-tips",
+    "slug": "tailwind-tips",
+    "title": "10 Tailwind CSS Tips for Better Styling",
+    "category": "CSS",
+    "tags": ["tailwind", "css", "design"],
+    "date": "2026-02-08",
+    "excerpt": "Unlock the full potential of Tailwind CSS with these practical tips and tricks for building beautiful interfaces.",
+    "mdPath": "/posts/tailwind-tips.md"
+  },
+  {
+    "id": "vite-performance",
+    "slug": "vite-performance",
+    "title": "Why Vite is the Fastest Build Tool",
+    "category": "Tools",
+    "tags": ["vite", "performance", "build-tools"],
+    "date": "2026-02-07",
+    "excerpt": "Discover how Vite leverages native ES modules and esbuild to deliver lightning-fast development and build times.",
+    "mdPath": "/posts/vite-performance.md"
+  }
+]
