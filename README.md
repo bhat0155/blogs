@@ -83,3 +83,4 @@ This blog uses a **metadata-first architecture**:
 ## License
 
 MIT
+# blogs
