@@ -1,42 +1,23 @@
 [
   {
-    "id": "getting-started-react",
-    "slug": "getting-started-react",
-    "title": "Getting Started with React in 2026",
-    "category": "React",
-    "tags": ["react", "javascript", "tutorial"],
-    "date": "2026-02-09",
-    "excerpt": "Learn the fundamentals of React and build your first component. This guide covers hooks, props, and state management.",
-    "mdPath": "/posts/getting-started-react.md"
-  },
-  {
-    "id": "tailwind-tips",
-    "slug": "tailwind-tips",
-    "title": "10 Tailwind CSS Tips for Better Styling",
-    "category": "CSS",
-    "tags": ["tailwind", "css", "design"],
-    "date": "2026-02-08",
-    "excerpt": "Unlock the full potential of Tailwind CSS with these practical tips and tricks for building beautiful interfaces.",
-    "mdPath": "/posts/tailwind-tips.md"
-  },
-  {
-    "id": "vite-performance",
-    "slug": "vite-performance",
-    "title": "Why Vite is the Fastest Build Tool",
-    "category": "Tools",
-    "tags": ["vite", "performance", "build-tools"],
-    "date": "2026-02-07",
-    "excerpt": "Discover how Vite leverages native ES modules and esbuild to deliver lightning-fast development and build times.",
-    "mdPath": "/posts/vite-performance.md"
-  },
-  {
     "id": "docker",
     "slug": "docker",
-    "title": "We docker is essential",
+    "title": "Docker",
     "category": "Devops",
     "tags": ["docker", "devops"],
     "date": "2026-02-10",
-    "excerpt": "What is containerisation why is it essential",
+    "excerpt": "Why docker is essential?",
     "mdPath": "/posts/docker.md"
+  },
+  {
+    "id": "xeffect",
+    "slug": "xeffect",
+    "title": "Habit of Consistancy",
+    "category": "Productivity",
+    "tags": ["productivity", "goals"],
+    "date": "2022-09-21",
+    "excerpt": "Lessons learnt through Atomic Habits",
+    "mdPath": "/posts/xeffect.md",
+    "image": "/images/xeffect.jpeg"
   }
 ]

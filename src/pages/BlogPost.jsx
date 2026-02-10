@@ -2,6 +2,7 @@ import { useState, useEffect } from 'react'
 import { useParams, Link } from 'react-router-dom'
 import ReactMarkdown from 'react-markdown'
 import remarkGfm from 'remark-gfm'
+import rehypeRaw from 'rehype-raw'
 import blogsData from '../data/blogs.json'
 import Loader from '../components/Loader'
 import NotFound from '../components/NotFound'
@@ -123,10 +124,22 @@ const BlogPost = () => {
 
       {/* Markdown content */}
       <article className="prose dark:prose-invert max-w-none">
-        <ReactMarkdown remarkPlugins={[remarkGfm]}>
+        <ReactMarkdown
+          remarkPlugins={[remarkGfm]}
+          rehypePlugins={[rehypeRaw]}
+        >
           {markdown}
         </ReactMarkdown>
       </article>
+
+      {/* Optional image at end of post */}
+      {blog.image && (
+        <img
+          src={blog.image}
+          alt={blog.title}
+          className="w-full mt-8 shadow-lg object-contain max-h-[500px]"
+        />
+      )}
     </div>
   )
 }

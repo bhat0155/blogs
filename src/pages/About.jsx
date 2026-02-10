@@ -29,7 +29,7 @@ const About = () => {
         </p>
 
         <p>
-          Through this platform, I share insights, tutorials, and lessons learned while working
+          Through this platform, I share insights and lessons learned while working
           with cloud technologies, DevOps practices, and modern web development. My goal is to
           create content that helps others navigate the same learning paths I'm exploring.
         </p>

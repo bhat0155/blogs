@@ -4,17 +4,6 @@ const BlogCard = ({ blog }) => {
   return (
     <Link to={`/blog/${blog.slug}`} className="block group perspective-[1000px]">
       <article className="h-full border border-zinc-200 dark:border-zinc-800 rounded-lg overflow-hidden bg-zinc-50 dark:bg-zinc-900 transition-all duration-300 hover:border-purple-500 hover:shadow-[0_20px_50px_rgba(168,85,247,0.3)] hover:-translate-y-2 hover:scale-[1.02] transform-gpu">
-        {/* Image */}
-        {blog.image && (
-          <div className="aspect-video overflow-hidden bg-zinc-200 dark:bg-zinc-800">
-            <img
-              src={blog.image}
-              alt={blog.title}
-              className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-300"
-            />
-          </div>
-        )}
-
         {/* Content */}
         <div className="p-6">
           {/* Category & Date */}
