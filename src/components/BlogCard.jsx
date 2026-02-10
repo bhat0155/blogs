@@ -2,8 +2,8 @@ import { Link } from 'react-router-dom'
 
 const BlogCard = ({ blog }) => {
   return (
-    <Link to={`/blog/${blog.slug}`} className="block group">
-      <article className="h-full border border-zinc-200 dark:border-zinc-800 rounded-lg overflow-hidden hover:shadow-lg transition-shadow bg-zinc-50 dark:bg-zinc-900">
+    <Link to={`/blog/${blog.slug}`} className="block group perspective-[1000px]">
+      <article className="h-full border border-zinc-200 dark:border-zinc-800 rounded-lg overflow-hidden bg-zinc-50 dark:bg-zinc-900 transition-all duration-300 hover:border-purple-500 hover:shadow-[0_20px_50px_rgba(168,85,247,0.3)] hover:-translate-y-2 hover:scale-[1.02] transform-gpu">
         {/* Image */}
         {blog.image && (
           <div className="aspect-video overflow-hidden bg-zinc-200 dark:bg-zinc-800">

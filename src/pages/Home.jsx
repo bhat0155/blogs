@@ -45,7 +45,9 @@ const Home = () => {
     <div className="max-w-6xl mx-auto px-4 py-8">
       {/* Header */}
       <div className="mb-12 text-center">
-        <h1 className="text-4xl font-bold mb-4">Welcome to My Blog</h1>
+        <h1 className="text-4xl font-bold mb-4">
+          Hello Hello <span className="inline-block animate-wave">👋</span>
+        </h1>
         <p className="text-zinc-600 dark:text-zinc-400 text-lg">
           Thoughts on web development, tutorials, and tech insights
         </p>

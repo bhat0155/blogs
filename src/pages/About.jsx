@@ -8,7 +8,7 @@ const About = () => {
           <div className="absolute inset-0 bg-gradient-to-br from-purple-400 via-purple-500 to-purple-600 rounded-full blur-lg opacity-75"></div>
           {/* Profile image */}
           <img
-            src="/images/ekam.jpeg"
+            src="/images/ekam.png"
             alt="Ekam Singh"
             className="relative w-80 h-80 rounded-full object-cover border-4 border-white dark:border-zinc-900 shadow-xl"
           />
