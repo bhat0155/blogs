@@ -1,4 +1,14 @@
-[
+[{
+    "id": "AZ900",
+    "slug": "azure-fundamentals",
+    "title": "Azure Fundamentals",
+    "category": "Cloud",
+    "tags": ["azure", "cloud"],
+    "date": "2026-02-12",
+    "excerpt": "What is cloud computing and how to get started with Azure?",
+    "mdPath": "/posts/azure-fundamentals.md",
+    "image": "/images/az-900-ekam.jpeg"
+  },
   {
     "id": "docker",
     "slug": "docker",
