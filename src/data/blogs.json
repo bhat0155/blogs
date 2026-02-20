@@ -1,4 +1,15 @@
-[{
+[
+  {
+    "id": "Kubernetes",
+    "slug": "kubernetes",
+    "title": "Kubernetes",
+    "category": "Devops",
+    "tags": ["kubernetes", "devops"],
+    "date": "2026-02-20",
+    "excerpt": "How I integrated Kubernetes in my projects and what I learnt from it?",
+    "mdPath": "/posts/kubernetes.md"
+  },
+  {
     "id": "AZ900",
     "slug": "azure-fundamentals",
     "title": "Azure Fundamentals",
