@@ -1,5 +1,3 @@
-GitHub Repo: https://github.com/bhat0155/xeffect
-
 # Integrating Kubernetes Into My Existing Docker Project (XEffect)
 
 ## 1. Why I Moved Beyond Docker Compose
@@ -75,3 +73,8 @@ This was the biggest macOS gotcha. Even though my Ingress and services were corr
 Example:
 ```bash
 kubectl -n ingress-nginx port-forward svc/ingress-nginx-controller 18080:80
+```
+
+---
+
+> Full source code: [XEffect on GitHub](https://github.com/bhat0155/xeffect)
