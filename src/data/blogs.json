@@ -1,4 +1,14 @@
-[
+[ {
+    "id": "CICD",
+    "slug": "cicd",
+    "title": "CI/CD",
+    "category": "Devops",
+    "tags": ["cicd", "devops"],
+    "date": "2026-05-03",
+    "excerpt": "What is CI/CD and how to implement it in your projects?",
+    "mdPath": "/posts/cicd.md",
+    "image": "/images/cicd.jpeg"
+  },
   {
     "id": "Kubernetes",
     "slug": "kubernetes",
