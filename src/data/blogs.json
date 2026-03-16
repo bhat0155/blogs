@@ -1,4 +1,14 @@
-[ {
+[ 
+  {
+    "id": "Azure Networking",
+    "slug": "azure-networking",
+    "title": "Azure Networking",
+    "category": "Cloud",
+    "tags": ["azure", "cloud", "networking"],
+    "date": "2026-03-16",
+    "excerpt": "How does networking work in Azure and what are the key components?",
+    "mdPath": "/posts/azure-networking.md"
+  },{
     "id": "CICD",
     "slug": "cicd",
     "title": "CI/CD",
