@@ -1,5 +1,15 @@
 [ 
   {
+    "id": "n8n job application workflow",
+    "slug": "n8n-job-application-workflow",
+    "title": "n8n Job Application Workflow",
+    "category": "Devops",
+    "tags": ["n8n", "workflow", "job-application"],
+    "date": "2026-03-16",
+    "excerpt": "How do we automate job applications using n8n and what are the benefits of doing so?",
+    "mdPath": "/posts/n8n-job-application-workflow.md",
+    "image": "/images/n8n-job-application-workflow.jpg"
+  },{
     "id": "Azure Networking",
     "slug": "azure-networking",
     "title": "Azure Networking",
