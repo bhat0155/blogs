@@ -1,4 +1,14 @@
-[ 
+[ {
+    "id": "DNS Basics",
+    "slug": "dns-basics",
+    "title": "DNS Basics",
+    "category": "Networking",
+    "tags": ["dns", "networking"],
+    "date": "2026-03-20",
+    "excerpt": "What is DNS and how does it work?",
+    "mdPath": "/posts/dns-basics.md",
+    "image": "/images/dns-basics.jpg"
+  },
   {
     "id": "n8n job application workflow",
     "slug": "n8n-job-application-workflow",
