@@ -3,7 +3,7 @@
     "id": "n8n job application workflow",
     "slug": "n8n-job-application-workflow",
     "title": "n8n Job Application Workflow",
-    "category": "Devops",
+    "category": "Automation",
     "tags": ["n8n", "workflow", "job-application"],
     "date": "2026-03-20",
     "excerpt": "How do we automate job applications using n8n and what are the benefits of doing so?",
