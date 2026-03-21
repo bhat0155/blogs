@@ -58,7 +58,7 @@ Understanding the "handshake" between different providers is key to mastering DN
 
 ---
 
- ## 5) Assignment 5 "Cheat Sheet" Summary
+ ## 5) Common Gotchas
 
 **Why use a Subdomain (labs)?** Using a subdomain like `labs.bhangrascape.ca` allows us to test Azure infrastructure and Virtual Machine connectivity without altering primary domain records. This is a standard **Development vs. Production** strategy.
 
