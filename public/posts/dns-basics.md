@@ -1,4 +1,4 @@
-# Mastering the Web: How DNS Powers the Cloud 🌐 (Assignment 5)
+# Mastering the Web: How DNS Powers the Cloud 
 
 So, you’ve built a Virtual Machine in Azure—but how does the world actually find it? 
 
@@ -51,7 +51,7 @@ Understanding the "handshake" between different providers is key to mastering DN
 |---|---|---|
 | **1. Resource Group** | Created `dns` | Logical container to keep our networking assets organized. |
 | **2. DNS Zone** | Created `bhangrascape.ca` | The "Master File" in Azure that will hold all our custom records. |
-| **3. A Record** | Added `labs` -> `172.208.67.131` | Points a specific subdomain to our Assignment 3 VM. |
+| **3. A Record** | Added `labs` -> `172.208.67.131` | Points a specific subdomain to our VM. |
 | **4. NS Records** | Identified 4 Azure Name Servers | These are the addresses we give GoDaddy to complete the "Handover." |
 
 
