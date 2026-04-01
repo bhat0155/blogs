@@ -198,3 +198,6 @@ Before this lab, these Azure networking terms felt abstract. But creating a VM a
 Instead of memorizing definitions, I now understand how these components work together in practice.
 
 That is what made the learning stick.
+
+Ps: Youtube: https://www.youtube.com/watch?v=vZWh3VwEUO0
+github: https://github.com/bhat0155/todo-azurehosting/blob/main/AZURE_DEPLOYMENT.md
