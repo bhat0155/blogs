@@ -1,4 +1,16 @@
-[ {
+[ 
+ {
+    "id": "Azure Monitoring",
+    "slug": "azure-monitoring",
+    "title": "Azure Monitoring",
+    "category": "Cloud",
+    "tags": ["azure", "cloud", "monitoring"],
+    "date": "2026-04-15",
+    "excerpt": "Why monitoring is important in Azure and how to implement it effectively?",
+    "mdPath": "/posts/azure-monitoring.md",
+    "image": "/images/azure-monitoring.jpg"
+  }, 
+{
     "id": "DNS Basics",
     "slug": "dns-basics",
     "title": "DNS Basics",
