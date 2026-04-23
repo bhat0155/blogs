@@ -23,7 +23,7 @@ const Layout = () => {
           </p>
           <div className="flex items-center gap-4">
             <a
-              href="https://www.linkedin.com/in/ekam-singh-335840168/"
+              href="https://www.linkedin.com/in/ekam-bhatia-335840168/"
               target="_blank"
               rel="noopener noreferrer"
               aria-label="LinkedIn"
