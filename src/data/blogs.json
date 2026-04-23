@@ -1,4 +1,14 @@
-[ 
+[ {
+    "id": "Azure Functions",
+    "slug": "azure-functions",
+    "title": "Azure Functions",
+    "category": "Cloud",
+    "tags": ["azure", "cloud", "functions"],
+    "date": "2026-04-23",
+    "excerpt": "What is serverless computing and how to use Azure Functions to build scalable applications?",
+    "mdPath": "/posts/azure-functions.md",
+    "image": "/images/azure-functions.jpg"
+  }, 
  {
     "id": "Azure Monitoring",
     "slug": "azure-monitoring",
