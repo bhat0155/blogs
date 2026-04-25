@@ -230,10 +230,6 @@ What stands out from this setup is how interconnected the components are. A sing
 
 This is what production cloud operations depend on: not just running code, but maintaining continuous visibility into how it behaves.
 
-If extended further, the next steps would be:
-
-- Add memory and disk space alerts
-- Add failure-rate alerts from Application Insights
-- Complete the Key Vault and Managed Identity integration
+Youtube: https://www.youtube.com/watch?v=YjE6DK1nh6M
 
 That would move this from a basic monitoring setup to a production-ready observability stack.
