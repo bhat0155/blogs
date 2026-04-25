@@ -1,4 +1,16 @@
-[ {
+[ 
+{
+    "id": "Azure monitoring and security: Building real observablity for a cloud app ",
+    "slug": "azure-monitoring-security",
+    "title": "Azure Monitoring and security",
+    "category": "Cloud",
+    "tags": ["azure", "cloud", "security", "monitoring"],
+    "date": "2026-04-25",
+    "excerpt": "How to build real observability for a cloud app using Azure monitoring and security tools?",
+    "mdPath": "/posts/azure-monitoring-security.md",
+    "image": "/images/azure-monitoring-security.png"
+  },   
+{
     "id": "Azure Functions",
     "slug": "azure-functions",
     "title": "Azure Functions",
