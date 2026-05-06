@@ -1,4 +1,15 @@
 [ 
+  {
+    "id": "Terraform",
+    "slug": "terraform",
+    "title": "Terraform",
+    "category": "Devops",
+    "tags": ["terraform", "devops"],
+    "date": "2026-05-06",
+    "excerpt": "Terraform on Azure: Provisioning a Three-Tier Application with Remote State, Network Segmentation, and OIDC CI/CD",
+    "mdPath": "/posts/terraform.md",
+    "image": "/images/terraform.svg"
+  },  
 {
     "id": "Azure monitoring and security: Building real observablity for a cloud app ",
     "slug": "azure-monitoring-security",
