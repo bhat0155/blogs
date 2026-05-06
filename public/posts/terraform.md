@@ -228,4 +228,4 @@ Running apply on pull requests would be dangerous: unreviewed code would modify 
 
 The part that surprised me most was how much of the security model lives in the network layer rather than in the application. Before this project, I thought of NSG rules as a secondary concern — something you configure and forget. Building the three-tier segmentation made clear that the network topology is the first line of defence, and Terraform makes it versionable and reviewable in the same way as application code.
 
-If I were starting over, I would extract the VM configuration into a reusable module from the beginning rather than writing three near-identical resource blocks. The duplication is manageable at three VMs, but it would compound quickly at ten. The time to abstract is before the repetition becomes painful, not after.
+Github: https://github.com/bhat0155/todo-azurehosting
