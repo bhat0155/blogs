@@ -1,4 +1,13 @@
-[ 
+[ {
+    "id": "Azure demo for identity, key vault, and app services",
+    "slug": "azure demo",
+    "title": "Azure demo for identity, key vault, and app services",
+    "category": "Devops",
+    "tags": ["azure", "devops"],
+    "date": "2026-05-13",
+    "excerpt": "Azure demo for identity, key vault, and app services",
+    "mdPath": "/posts/azure-demo.md"
+  }, 
   {
     "id": "Terraform",
     "slug": "terraform",
