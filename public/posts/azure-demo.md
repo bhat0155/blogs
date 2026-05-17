@@ -295,6 +295,7 @@ Resources in different regions can communicate, but it adds latency. In this pro
 **5. Event-driven logic belongs in functions.**
 Putting the email alert in the backend would couple upload speed to email delivery speed. A Blob Trigger decouples them completely — the user gets a response the moment the file is saved, and the email logic runs whenever Azure is ready.
 
+Youtube: https://www.youtube.com/watch?v=TOyAgaNvCT8
 ---
 
 *Built on Microsoft Azure — App Service, Blob Storage, SQL Database, Key Vault, Azure Functions, SendGrid*
