@@ -123,7 +123,9 @@
     "tags": ["docker", "devops"],
     "date": "2026-02-10",
     "excerpt": "Why docker is essential?",
-    "mdPath": "/posts/docker.md"
+    "mdPath": "/posts/docker.md",
+    "image": "/images/docker.jpeg"
+
   },
   {
     "id": "xeffect",
