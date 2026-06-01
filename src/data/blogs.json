@@ -1,4 +1,13 @@
 [ {
+    "id": "Kubernetes for Potterheads",
+    "slug": "kubernetes-for-potterheads",
+    "title": "Kubernetes for Potterheads",
+    "category": "Devops",
+    "tags": ["kubernetes", "devops"],
+    "date": "2026-06-01",
+    "excerpt": "Kubernetes for Potterheads",
+    "mdPath": "/posts/kubernetes-harryPotter.md"
+  }, {
     "id": "Azure demo for identity, key vault, and app services",
     "slug": "azure demo",
     "title": "Azure demo for identity, key vault, and app services",
