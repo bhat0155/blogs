@@ -1,6 +1,3 @@
-*13 core Kubernetes concepts explained through the wizarding world of Harry Potter ⚡️.*
-
----
 
 ## 1. What is Kubernetes?
 
