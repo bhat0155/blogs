@@ -1,5 +1,3 @@
-# Kubernetes for Potterheads
-
 *13 core Kubernetes concepts explained through the wizarding world of Harry Potter ⚡️.*
 
 ---

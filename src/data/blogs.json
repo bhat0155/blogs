@@ -5,7 +5,8 @@
     "category": "Devops",
     "tags": ["kubernetes", "devops"],
     "date": "2026-06-01",
-    "excerpt": "Kubernetes for Potterheads",
+    "excerpt": "13 core Kubernetes concepts explained through the wizarding world of Harry Potter.",
+    "image": "/images/kubernetes-harry-potter.png",
     "mdPath": "/posts/kubernetes-harryPotter.md"
   }, {
     "id": "Azure demo for identity, key vault, and app services",
