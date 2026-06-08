@@ -1,4 +1,14 @@
 [ {
+    "id": "CICD with Jenkins",
+    "slug": "cicd-with-jenkins",
+    "title": "CICD with Jenkins",
+    "category": "Devops",
+    "tags": ["jenkins", "devops"],
+    "date": "2026-06-08",
+    "excerpt": "How to set up a CI/CD pipeline using Jenkins, sonarqube, trivy, docker and kubernetes?",
+    "image": "/images/cicd-jenkins.png",
+    "mdPath": "/posts/cicd-jenkins.md"
+  },{
     "id": "Kubernetes for Potterheads",
     "slug": "kubernetes-for-potterheads",
     "title": "Kubernetes for Potterheads",
