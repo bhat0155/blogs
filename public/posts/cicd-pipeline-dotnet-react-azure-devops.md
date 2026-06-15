@@ -334,3 +334,6 @@
 
   Going from manual deployments to a fully automated pipeline is one of the most satisfying engineering
   improvements you can make. The pipeline is now the source of truth for how the app gets built and deployed — not a set of steps someone has to remember.
+
+
+  Github: https://github.com/bhat0155/WeatherApp_azureservices
