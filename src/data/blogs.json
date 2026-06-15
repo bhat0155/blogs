@@ -1,46 +1,60 @@
-[ {
+[
+  {
+    "id": "Building a CI/CD Pipeline for a .NET + React App on Azure DevOps",
+    "slug": "cicd-pipeline-dotnet-react-azure-devops",
+    "title": "Building a CI/CD Pipeline for a .NET + React App on Azure DevOps",
+    "category": "DevOps",
+    "tags": ["Azure DevOps", "CI/CD", ".NET 9", "React", "Azure App Service", "Azure Pipelines"],
+    "date": "2026-06-14",
+    "excerpt": "How I built a full CI/CD pipeline that automatically builds, tests, and deploys a .NET API and React frontend to three Azure environments.",
+    "image": "/images/cicd-pipeline-dotnet-react-azure-devops.png",
+    "mdPath": "/posts/cicd-pipeline-dotnet-react-azure-devops.md"
+  },
+  {
     "id": "CICD with Jenkins",
     "slug": "cicd-with-jenkins",
     "title": "CICD with Jenkins",
-    "category": "Devops",
+    "category": "DevOps",
     "tags": ["jenkins", "devops"],
     "date": "2026-06-08",
     "excerpt": "How to set up a CI/CD pipeline using Jenkins, sonarqube, trivy, docker and kubernetes?",
     "image": "/images/cicd-jenkins.png",
     "mdPath": "/posts/cicd-jenkins.md"
-  },{
+  },
+  {
     "id": "Kubernetes for Potterheads",
     "slug": "kubernetes-for-potterheads",
     "title": "Kubernetes for Potterheads",
-    "category": "Devops",
+    "category": "DevOps",
     "tags": ["kubernetes", "devops"],
     "date": "2026-06-01",
     "excerpt": "13 core Kubernetes concepts explained through the wizarding world of Harry Potter.",
     "image": "/images/kubernetes-harry-potter.png",
     "mdPath": "/posts/kubernetes-harryPotter.md"
-  }, {
+  },
+  {
     "id": "Azure demo for identity, key vault, and app services",
-    "slug": "azure demo",
+    "slug": "azure-demo",
     "title": "Azure demo for identity, key vault, and app services",
-    "category": "Devops",
+    "category": "DevOps",
     "tags": ["azure", "devops"],
     "date": "2026-05-13",
     "excerpt": "Azure demo for identity, key vault, and app services",
     "mdPath": "/posts/azure-demo.md"
-  }, 
+  },
   {
     "id": "Terraform",
     "slug": "terraform",
     "title": "Terraform",
-    "category": "Devops",
+    "category": "DevOps",
     "tags": ["terraform", "devops"],
     "date": "2026-05-06",
     "excerpt": "Terraform on Azure: Provisioning a Three-Tier Application with Remote State, Network Segmentation, and OIDC CI/CD",
     "mdPath": "/posts/terraform.md",
     "image": "/images/terraform.svg"
-  },  
-{
-    "id": "Azure monitoring and security: Building real observablity for a cloud app ",
+  },
+  {
+    "id": "Azure monitoring and security: Building real observability for a cloud app",
     "slug": "azure-monitoring-security",
     "title": "Azure Monitoring and security",
     "category": "Cloud",
@@ -49,8 +63,8 @@
     "excerpt": "How to build real observability for a cloud app using Azure monitoring and security tools?",
     "mdPath": "/posts/azure-monitoring-security.md",
     "image": "/images/azure-monitoring-security.png"
-  },   
-{
+  },
+  {
     "id": "Azure Functions",
     "slug": "azure-functions",
     "title": "Azure Functions",
@@ -60,8 +74,8 @@
     "excerpt": "What is serverless computing and how to use Azure Functions to build scalable applications?",
     "mdPath": "/posts/azure-functions.md",
     "image": "/images/azure-functions.jpg"
-  }, 
- {
+  },
+  {
     "id": "Azure Monitoring",
     "slug": "azure-monitoring",
     "title": "Azure Monitoring",
@@ -71,8 +85,8 @@
     "excerpt": "Why monitoring is important in Azure and how to implement it effectively?",
     "mdPath": "/posts/azure-monitoring.md",
     "image": "/images/azure-monitoring.jpg"
-  }, 
-{
+  },
+  {
     "id": "DNS Basics",
     "slug": "dns-basics",
     "title": "DNS Basics",
@@ -93,7 +107,8 @@
     "excerpt": "How do we automate job applications using n8n and what are the benefits of doing so?",
     "mdPath": "/posts/n8n-job-application-workflow.md",
     "image": "/images/n8n-job-application-workflow.jpg"
-  },{
+  },
+  {
     "id": "Azure Networking",
     "slug": "azure-networking",
     "title": "Azure Networking",
@@ -103,11 +118,12 @@
     "excerpt": "How does networking work in Azure and what are the key components?",
     "mdPath": "/posts/azure-networking.md",
     "image": "/images/azure-networking.jpg"
-  },{
+  },
+  {
     "id": "CICD",
     "slug": "cicd",
     "title": "CI/CD",
-    "category": "Devops",
+    "category": "DevOps",
     "tags": ["cicd", "devops"],
     "date": "2026-03-04",
     "excerpt": "What is CI/CD and how to implement it in your projects?",
@@ -118,7 +134,7 @@
     "id": "Kubernetes",
     "slug": "kubernetes",
     "title": "Kubernetes",
-    "category": "Devops",
+    "category": "DevOps",
     "tags": ["kubernetes", "devops"],
     "date": "2026-02-20",
     "excerpt": "How I integrated Kubernetes in my projects and what I learnt from it?",
@@ -139,13 +155,12 @@
     "id": "docker",
     "slug": "docker",
     "title": "Docker",
-    "category": "Devops",
+    "category": "DevOps",
     "tags": ["docker", "devops"],
     "date": "2026-02-10",
     "excerpt": "Why docker is essential?",
     "mdPath": "/posts/docker.md",
     "image": "/images/docker.jpg"
-
   },
   {
     "id": "xeffect",
