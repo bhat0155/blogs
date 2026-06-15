@@ -40,7 +40,7 @@
           │
           ▼
   ┌─────────────────────────────────────────────┐
-  │              Azure DevOps Pipeline           │
+  │              Azure DevOps Pipeline          │
   │                                             │
   │  Stage 1: Build                             │
   │  ├── dotnet restore                         │
