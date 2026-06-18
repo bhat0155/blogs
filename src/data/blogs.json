@@ -1,4 +1,14 @@
-[
+[{
+    "id": "Containerization with Docker and Kubernetes and Observability with Prometheus and Grafana",
+    "slug": "containerization-docker-kubernetes-observability-prometheus-grafana",
+    "title": "Containerization with Docker and Kubernetes and Observability with Prometheus and Grafana",
+    "category": "DevOps",
+    "tags": ["Docker", "Kubernetes", "Prometheus", "Grafana"],
+    "date": "2026-06-18",
+    "excerpt": "How I containerized my applications using Docker and Kubernetes and implemented observability using Prometheus and Grafana.",
+    "image": "/images/containerization-and-observibility.png",
+    "mdPath": "/posts/containerization-and-observibility.md"
+  },
   {
     "id": "Building a CI/CD Pipeline for a .NET + React App on Azure DevOps",
     "slug": "cicd-pipeline-dotnet-react-azure-devops",
