@@ -80,7 +80,3 @@ This blog uses a **metadata-first architecture**:
   main.jsx             # React entry point
 ```
 
-## License
-
-MIT
-# blogs
