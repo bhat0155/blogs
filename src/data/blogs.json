@@ -1,4 +1,14 @@
 [{
+    "id": "Terraform on Azure: What It Is, Why It Matters, and How I Wired Up a Real Cloud Stack",
+    "slug": "terraform-azure-aks-iac-weather-app",
+    "title": "Terraform on Azure: What It Is, Why It Matters, and How I Wired Up a Real Cloud Stack",
+    "category": "DevOps",
+    "tags": ["Terraform", "Azure", "IaC", "AKS", "ACR", "Azure Policy", "Azure SQL"],
+    "date": "2026-06-23",
+    "excerpt": "How I used Terraform to provision a full Azure cloud stack for a weather app — including VNet, AKS, ACR, Azure SQL, a bastion VM, and subscription-level Azure Policy — with reusable modules and remote state.",
+    "image": "/images/terraform-azure-aks.png",
+    "mdPath": "/posts/terraform-azure-aks-iac-weather-app.md"
+  },{
     "id": "Containerization with Docker and Kubernetes and Observability with Prometheus and Grafana",
     "slug": "containerization-docker-kubernetes-observability-prometheus-grafana",
     "title": "Containerization with Docker and Kubernetes and Observability with Prometheus and Grafana",
