@@ -1,4 +1,13 @@
 [{
+    "id": "Deploying a Node.js API to Azure with Terraform and Jenkins: What It Is, Why It Matters, and How I Did It",
+    "slug": "terraform-jenkins-azure-nodejs-cicd",
+    "title": "Deploying a Node.js API to Azure with Terraform and Jenkins: What It Is, Why It Matters, and How I Did It",
+    "category": "DevOps",
+    "tags": ["Terraform", "Jenkins", "Azure", "CI/CD", "Node.js", "Prisma", "App Service", "PostgreSQL"],
+    "date": "2026-06-26",
+    "excerpt": "How I used Terraform to provision a full Azure stack for a Node.js + Prisma API — App Service, PostgreSQL Flexible Server, Storage, and firewall rules — then wired up a Jenkins CI/CD pipeline that builds, tests, packages with cross-platform Prisma engines, migrates the database, and deploys automatically.",
+    "mdPath": "/posts/Terraform-and-jenkins_cicd_in_existing_project.md"
+  },{
     "id": "Terraform on Azure: What It Is, Why It Matters, and How I Wired Up a Real Cloud Stack",
     "slug": "terraform-azure-aks-iac-weather-app",
     "title": "Terraform on Azure: What It Is, Why It Matters, and How I Wired Up a Real Cloud Stack",
