@@ -1,4 +1,17 @@
-[{
+[
+  {
+    "id": "Automated Security Compliance in Azure: What It Is, Why It Matters, and How to Build It",
+    "slug": "azure-automated-security-compliance",
+    "title": "Automated Security Compliance in Azure: What It Is, Why It Matters, and How to Build It",
+    "category": "Cloud Security",
+    "tags": ["Azure", "Azure Policy", "Compliance", "Governance", "RBAC", "Bicep", "Deployment Stacks", "Azure Blueprints"],
+    "date": "2026-08-04",
+    "excerpt": "How I built an automated Azure compliance baseline — audit-then-deny policy rollout, DeployIfNotExists remediation, and a custom Initiative — then replaced the retired Azure Blueprints service with Bicep Template Specs and a lifecycle-locked Deployment Stack, working through real gotchas like a hidden 'Enroll' enforcement mode and a self-inflicted policy conflict along the way.",
+    "mdPath": "/posts/azure-policy-blueprint-replacement.md",
+    "image": "/images/compliance.png"
+
+  },
+  {
     "id": "Deploying a Node.js API to Azure with Terraform and Jenkins: What It Is, Why It Matters, and How I Did It",
     "slug": "terraform-jenkins-azure-nodejs-cicd",
     "title": "Deploying a Node.js API to Azure with Terraform and Jenkins: What It Is, Why It Matters, and How I Did It",
