@@ -143,3 +143,5 @@ Two distinct `deploymentId` values across the two runs, with `systemData.lastMod
 ## Final Thoughts
 
 What surprised me most wasn't any single Azure quirk, it was how many of the "gotchas" were really governance lessons in disguise. The Enroll enforcement mode, the managed-identity requirement, the initiative parameter conflict: each one forced me to actually understand the mechanism instead of clicking through a wizard and assuming it worked. If I did this again, I'd promote every policy parameter to an initiative-level override from day one. The cost of doing that upfront is a few extra minutes, and the cost of not doing it is a redeploy blocked by your own compliance baseline, discovered at the worst possible time.
+
+Github: https://github.com/bhat0155/complaince
