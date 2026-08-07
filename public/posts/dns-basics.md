@@ -1,5 +1,3 @@
-# Mastering the Web: How DNS Powers the Cloud 
-
 So, you’ve built a Virtual Machine in Azure—but how does the world actually find it? 
 
 Welcome to the **Domain Name System (DNS)**. 

@@ -1,7 +1,3 @@
-# Azure Functions: What They Are, Why They Matter, and How I Built One
-
----
-
 ## What Are Azure Functions?
 
 Azure Functions are small pieces of code that run in the cloud without you managing any server.

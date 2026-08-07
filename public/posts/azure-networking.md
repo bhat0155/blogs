@@ -1,5 +1,3 @@
-# Azure Networking Basics with One Virtual Machine
-
 When I started learning Azure networking, the terms felt confusing at first. So instead of memorizing definitions, I created one virtual machine and learned each networking concept around it. That made everything much easier to understand.
 
 In this blog, I’ll explain the basics of:

@@ -1,7 +1,3 @@
-# Building a CI/CD Pipeline for a .NET + React App on Azure DevOps
-
-  ---
-
   ## Introduction
 
   Before I built this pipeline, every deployment was manual. Run `dotnet publish` locally, zip the output,

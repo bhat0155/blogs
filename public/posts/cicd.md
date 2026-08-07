@@ -1,5 +1,3 @@
-# How I Integrated CI/CD into xeffect
-
 CI/CD is supposed to be a boring process. And honestly, that's the point. It's a gate that ensures only good, tested code reaches production so end users never have to deal with broken builds. For xeffect, I chose Azure Pipelines for CI and Argo CD for CD, and this post walks through exactly how I set it up.
 
 ---

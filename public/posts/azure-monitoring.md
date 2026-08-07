@@ -1,5 +1,3 @@
-# Azure Monitor: Catching Logs from a FastAPI App
-
 When I started learning about Azure monitoring, I kept hearing terms like Application Insights, Log Analytics Workspace, and telemetry. They sounded complicated. So instead of reading documentation, I built a small FastAPI app, deployed it to Azure, and learned each concept by actually using it.
 
 In this blog, I'll explain:

@@ -1,5 +1,3 @@
-# I’m Officially Azure Fundamentals Certified! ☁️ (AZ-900)
-
 So, you know how to write code—but do you know where that code actually *lives*?
 
 Welcome to **Cloud Infrastructure**.

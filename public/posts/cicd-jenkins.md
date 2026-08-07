@@ -1,5 +1,3 @@
-# Building a CI/CD Pipeline with Jenkins — Including the Six Times It Failed
-
 Most tutorials show you a pipeline that works. They skip the part where it fails six times before working once, and they never explain why. I built a full CI/CD pipeline from zero — Jenkins on an Azure VM, all the way to a live Spring Boot app running on AKS — and this is the version that includes the failures.
 
 The full source is on GitHub: [bhat0155/enahanced-petclinc-springboot](https://github.com/bhat0155/enahanced-petclinc-springboot/tree/main)

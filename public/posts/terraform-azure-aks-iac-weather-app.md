@@ -1,5 +1,3 @@
-# Terraform on Azure: What It Is, Why It Matters, and How I Wired Up a Real Cloud Stack
-
 ## What Is Terraform?
 
 Terraform is an **Infrastructure as Code (IaC)** tool made by HashiCorp. You write configuration files that describe the cloud resources you want — a Kubernetes cluster, a database, a virtual network — and Terraform figures out how to create, update, or destroy them to match that description.

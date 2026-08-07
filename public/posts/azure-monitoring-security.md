@@ -1,5 +1,3 @@
-# Azure Monitoring & Security: Building Real Observability for a Cloud App
-
 ## What Is Azure Monitoring?
 
 Azure Monitoring is not a single tool — it is a combination of services that work together to answer three key questions:

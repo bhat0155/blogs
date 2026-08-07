@@ -1,5 +1,3 @@
-# Integrating Kubernetes Into My Existing Docker Project (XEffect)
-
 ## 1. Why I Moved Beyond Docker Compose
 I moved beyond Docker Compose because I wanted to learn how orchestration works in real life. With Kubernetes, I’m not just “starting containers” — I’m declaring what I want (like 2 backend pods), and Kubernetes keeps trying to match that desired state. If a pod crashes, it comes back. If I need more capacity, I can scale replicas (and in real setups you can even autoscale). Plus, it supports rolling updates, health checks that control traffic, and clean separation of config, secrets, storage, and routing in YAML — which feels much closer to how teams run production.
 

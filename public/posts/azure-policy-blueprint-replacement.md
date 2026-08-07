@@ -1,5 +1,3 @@
-# Replacing Azure Blueprints: What I Learned Building an Automated Compliance Baseline with Policy, Initiatives, and Deployment Stacks
-
 ## What Is Azure Policy-as-Governance?
 
 Azure Policy is a service that evaluates resources against rules and can **audit**, **block (Deny)**, or **auto-remediate (DeployIfNotExists/Modify)** violations. It answers a different question than RBAC does. RBAC governs *who can do something*: a principal, a role, a scope. Policy governs *what is allowed to exist*: a resource's configuration, independent of who created it.

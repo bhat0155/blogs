@@ -1,5 +1,3 @@
-# Containerizing a .NET 9 + React App on AKS: Docker, Kubernetes, Azure DevOps CI/CD, and Production Observability
-
 ## What Is This Project?
 
 This is a full end-to-end containerization and deployment of a weather application — a .NET 9 API backend and a React + Vite frontend — running on Azure Kubernetes Service (AKS) with a fully automated Azure DevOps CI/CD pipeline and a production-grade observability stack.
