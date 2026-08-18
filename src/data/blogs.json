@@ -1,5 +1,15 @@
 [
   {
+    "id": "Microsoft Entra ID Gotchas That Trip People Up",
+    "slug": "entra-id-gotchas",
+    "title": "Microsoft Entra ID Gotchas That Trip People Up",
+    "category": "Cloud Security",
+    "tags": ["Entra ID", "Azure AD", "Identity", "Conditional Access", "PIM", "RBAC", "Workload Identity"],
+    "date": "2026-08-17",
+    "excerpt": "A list of Entra ID gotchas — hybrid identity (PHS vs. PTA vs. Federation), Azure RBAC vs. Entra roles, Conditional Access rollout, risky sign-in vs. risky user, PIM, FIDO2, and workload identity federation — and the details that are easy to get almost right.",
+    "mdPath": "/posts/entra-id.md"
+  },
+  {
     "id": "Automated Security Compliance in Azure: What It Is, Why It Matters, and How to Build It",
     "slug": "azure-automated-security-compliance",
     "title": "Automated Security Compliance in Azure: What It Is, Why It Matters, and How to Build It",
