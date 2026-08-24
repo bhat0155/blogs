@@ -1,5 +1,16 @@
 [
   {
+    "id": "Claude Code: Building a Reliable AI-Powered Development Workflow",
+    "slug": "claude-code-workflow",
+    "title": "Claude Code: Building a Reliable AI-Powered Development Workflow",
+    "category": "AI Development",
+    "tags": ["Claude Code", "AI", "Skills", "Subagents", "MCP", "Hooks", "Plugins"],
+    "date": "2026-08-24",
+    "excerpt": "How Claude Code becomes a full development workflow when Slash Commands, Skills, context management, CLAUDE.md, Spec-Driven Development, Subagents, MCP, Hooks, and Plugins are combined into one controlled engineering system.",
+    "image": "/images/claude-code-workflow.jpeg",
+    "mdPath": "/posts/claude-code-workflow.md"
+  },
+  {
     "id": "Microsoft Entra ID Gotchas That Trip People Up",
     "slug": "entra-id-gotchas",
     "title": "Microsoft Entra ID Gotchas That Trip People Up",

@@ -3,7 +3,8 @@
     "allow": [
       "Bash(git add:*)",
       "Bash(git commit:*)",
-      "Bash(cd *)"
+      "Bash(cd *)",
+      "Bash(python3 -m json.tool src/data/blogs.json)"
     ]
   }
 }
