@@ -1,5 +1,15 @@
 [
   {
+      "id": "Azure Network Watcher: What It Is, Why It Matters, and How I Used It to Diagnose a Broken NSG Rule",
+      "slug": "azure-network-watcher-nsg-diagnostics",
+      "title": "Azure Network Watcher: What It Is, Why It Matters, and How I Used It to Diagnose a Broken NSG Rule",
+      "category": "Cloud Networking",
+      "tags": ["Azure", "Network Watcher", "NSG", "Networking", "Packet Capture", "Troubleshooting", "Cloud Security"],
+      "date": "2026-09-03",
+      "excerpt": "A hands-on lab building a two-VM Azure topology, deliberately breaking connectivity with an NSG rule, and diagnosing it from symptom to root cause using IP Flow Verify, Effective Security Rules, Connection Troubleshoot, NSG Flow Logs, Packet Capture, and Next Hop.",
+      "image": "/images/azure-network-watcher-nsg-diagnostics.jpeg",
+      "mdPath": "/posts/azure-network-watcher.md"
+    },{
     "id": "Claude Code: Building a Reliable AI-Powered Development Workflow",
     "slug": "claude-code-workflow",
     "title": "Claude Code: Building a Reliable AI-Powered Development Workflow",
